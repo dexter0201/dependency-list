@@ -1,5 +1,5 @@
 {
-    "name": "dependency-list",
+    "name": "nodejs-dependency-list",
     "description": "NodeJs Dependency List",
     "authors": "Dexter Nguyen",
     "version": "0.1.0",
