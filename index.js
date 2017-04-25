@@ -115,12 +115,12 @@ DependencyList.prototype.listOfUnResolved = function () {
 };
 
 function Dependency() {
-    this.denpendencies = {};
+    this.dependencies = {};
     this.unResolved = {};
 }
 
 Dependency.prototype.destroy = function () {
-    this.denpendencies = null;
+    this.dependencies = null;
     this.unResolved = null;
 };
 
